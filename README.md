@@ -1,6 +1,6 @@
 # District-wise Participant Mapping
 
-![District-wise Participant Map](n29_final.jpg)
+![District-wise Mapping](n29_final.jpg)
 
 # District-wise Participant Mapping
 
