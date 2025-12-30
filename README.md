@@ -1,2 +1,18 @@
-# Mapping-in-R
-Mapping of District using R
+# District-wise Participant Mapping
+
+This repository contains R code, spatial data, and outputs used to create a
+district-wise participant map in Bangladesh.
+
+---
+
+## Objective
+To visualize district-level participant distribution using R.
+
+---
+
+## Tools
+- R
+- sf
+- dplyr
+- ggplot2
+- viridis
